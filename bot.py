@@ -17,8 +17,8 @@ import sqlite3
 import shutil
 from datetime import datetime
 
-TOKEN = 'BOT_TOKEN'
-admin_id = 1468758771  # your admin ID
+TOKEN = '8184646085:AAFni4eo04wg_V_dO6gWTnL-AS2aGPiv-H8'
+admin_id = 7046488481  # your admin ID
 db_path = 'settings/osint_bot.db'
 scanned_files_folder = 'scanned_files'
 
